@@ -1,62 +1,73 @@
-# 👋 Hey, I’m Krishil Parikh
+```bash
+> Initializing Krishil_Parikh...
+> Loading profile ████████████████ 100%
+```
 
-🚀 **AI/ML Enthusiast | Builder | Product + Tech Innovator**
-📍 Mumbai, India
+# 👋 Hello World, I’m **Krishil Parikh**
 
-I’m passionate about creating intelligent systems inspired by **Iron Man’s J.A.R.V.I.S.**. My work spans **Machine Learning, Deep Learning, and Agentic AI**, blending product thinking with strong technical execution. I thrive in **projects, hackathons, and team collaborations** that challenge me to push boundaries.
-
----
-
-## 🔥 About Me
-
-* 🎓 B.Tech in **AI & ML** @ DJ Sanghvi College of Engineering (2023–2027)
-* 💡 Strongest in **ML, DL, and Agentic AI**
-* 🌐 Founder & President of **DJS CodeAI**, a club for AI innovation
-* 🎯 Short-term goal: **AI/ML internship at an MNC & research internship at a top university**
-* 🛠️ Long-term vision: Pursue a **Master’s in AI** and lead impactful innovation
+💡 *AI/ML Enthusiast | Deep Learning Explorer | Agentic AI Builder*
+📍 Mumbai, India • 🚀 On a mission to create my own **J.A.R.V.I.S.**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ About Me
 
-* **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS
-* **ML/DL:** TensorFlow, PyTorch, Scikit-learn, XGBoost
-* **AI/LLMs:** OpenAI API, RAG, FAISS, Fine-tuning
-* **Computer Vision:** OpenCV, MediaPipe
-* **Tools:** Git, FastAPI, PyAutoGUI, BeautifulSoup
-
----
-
-## 🚀 Featured Projects
-
-* 🏆 **GenAI Hackathon Runner-Up (2025):** Built a GenAI supply chain solution using RAG + OpenAI LLM
-* ✋ **Sign Language Detection:** Hindi & English alphabet recognition with GAN + RL + CNN
-* 👁️ **Face & Gesture Recognition:** Real-time control using OpenCV & MediaPipe
-* ⚖️ **Legal Ally – AI Legal Chatbot:** GPT-powered legal guidance & document analysis
-
-👉 Check out more in my [repositories](https://github.com/Krishil-Parikh).
+* 🎓 B.Tech in **Artificial Intelligence & Machine Learning** @ DJ Sanghvi (2023–2027)
+* 🏆 Hackathon finalist & innovator (GenAI + Accessibility + LegalTech projects)
+* 🌐 Founder & President of **DJS CodeAI** – building an AI-first student community
+* 🎯 Goals: **AI/ML internship @ MNCs** + **Research internship @ top universities**
+* 🛠️ Long-term: **Masters in AI**, then lead **startup/MNC innovation**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishil-Parikh\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishil-Parikh\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎮 Beyond Code
-
-* 🏏 Cricket lover — team spirit & competition
-* 🎮 Gamer — Valorant & PC games
-* 🍿 Anime & series fan
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Highlight Projects
 
-* [LinkedIn](https://www.linkedin.com/in/krishil-parikh-3ba06b287)
-* [GitHub](https://github.com/Krishil-Parikh)
-* 📧 [krishil.prkh75@gmail.com](mailto:krishil.prkh75@gmail.com)
+🔹 **GenAI Supply Chain (Hackathon Runner-Up ’25)** – RAG + LLM + React dashboard
+🔹 **Sign Language Detection** – Hindi & English alphabets | GAN + RL + CNN
+🔹 **Face & Gesture Recognition** – Real-time control with OpenCV & MediaPipe
+🔹 **Legal Ally** – AI legal chatbot using GPT-3.5 & RAG
 
-✨ *“Building intelligent systems that inspire, impact, and innovate.”*
+💻 Dive deeper → [Repositories](https://github.com/Krishil-Parikh)
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Krishil-Parikh\&show_icons=true\&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Krishil-Parikh\&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishil-Parikh\&layout=compact\&theme=radical)
+
+---
+
+## 🎮 Beyond The Code
+
+* 🏏 Cricket: teamwork + competition
+* 🎮 Gaming: Valorant main 🔫
+* 🍿 Anime & series: creativity fuel
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishil-parikh-3ba06b287)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krishil-Parikh)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishil.prkh75@gmail.com)
+
+---
+
+```bash
+> System.out.println("✨ Building intelligent systems that inspire, impact & innovate ✨");
+```
