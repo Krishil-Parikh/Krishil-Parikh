@@ -1,50 +1,65 @@
+# 👋 Hey, I’m **Krishil Parikh**
+
 ```bash
-> Initializing Krishil_Parikh...
-> Loading profile ████████████████ 100%
-```
+> Booting up Krishil_Parikh...
+> Systems online ✔
+````
 
-# 👋 Hello World, I’m **Krishil Parikh**
-
-💡 *AI/ML Enthusiast | Deep Learning Explorer | Agentic AI Builder*
-📍 Mumbai, India • 🚀 On a mission to create my own **J.A.R.V.I.S.**
+**AI/ML Engineer in the making • Deep Learning Enthusiast • Agentic AI Tinkerer**
+📍 Mumbai, India | 🧠 Currently building toward my own **J.A.R.V.I.S.**
 
 ---
 
 ## ⚡ About Me
 
-* 🎓 B.Tech in **Artificial Intelligence & Machine Learning** @ DJ Sanghvi (2023–2027)
-* 🏆 Hackathon finalist & innovator (GenAI + Accessibility + LegalTech projects)
-* 🌐 Founder & President of **DJS CodeAI** – building an AI-first student community
-* 🎯 Goals: **AI/ML internship @ MNCs** + **Research internship @ top universities**
-* 🛠️ Long-term: **Masters in AI**, then lead **startup/MNC innovation**
+* 🎓 **B.Tech – Artificial Intelligence & Machine Learning (2023–2027)**
+  Dwarkadas J. Sanghvi College of Engineering
+* 🚀 **Hackathon finalist** (GenAI, Accessibility & LegalTech)
+* 🧩 Founder & President — **DJS CodeAI**, building an AI-first student community
+* 🎯 **Short-term goals:**
+  AI/ML internships at top companies + Research internships at leading labs
+* 🛠️ **Long-term vision:**
+  Masters in AI → lead innovation teams → build impactful AI products
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge\&logo=git\&logoColor=white)
+**Languages:**
+Python • C++ • Java
 
----
+**ML / DL:**
+PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe
 
-## 🚀 Highlight Projects
+**Backend / DevOps:**
+FastAPI • Node.js • Git • Docker
 
-🔹 **GenAI Supply Chain (Hackathon Runner-Up ’25)** – RAG + LLM + React dashboard
-🔹 **Sign Language Detection** – Hindi & English alphabets | GAN + RL + CNN
-🔹 **Face & Gesture Recognition** – Real-time control with OpenCV & MediaPipe
-🔹 **Legal Ally** – AI legal chatbot using GPT-3.5 & RAG
-
-💻 Dive deeper → [Repositories](https://github.com/Krishil-Parikh)
+**GenAI:**
+OpenAI APIs • LangChain • RAG Systems • LLM Applications
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Selected Projects
+
+🔹 **GenAI Supply Chain Optimizer**
+*Hackathon Runner-Up (2025)* — RAG + LLM + interactive React dashboard
+
+🔹 **Sign Language Detection (IN + EN)**
+CNN + GAN augmentation + RL-based training stabilizers
+
+🔹 **Vision-Based Control System**
+Real-time face & gesture recognition using OpenCV & MediaPipe
+
+🔹 **Legal Ally**
+AI-powered legal assistant using GPT models + vector search
+
+👉 Explore more: **[My Repositories](https://github.com/Krishil-Parikh)**
+
+---
+
+## 📈 GitHub Activity Snapshot
+
+*(Just aesthetics — not “live KPIs,” lol)*
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Krishil-Parikh\&show_icons=true\&theme=radical)
 ![Streak](https://streak-stats.demolab.com/?user=Krishil-Parikh\&theme=radical)
@@ -52,15 +67,15 @@
 
 ---
 
-## 🎮 Beyond The Code
+## 🎮 Beyond Code
 
-* 🏏 Cricket: teamwork + competition
-* 🎮 Gaming: Valorant main 🔫
-* 🍿 Anime & series: creativity fuel
+* 🏏 Cricket lover
+* 🎮 Valorant grinder
+* 🍿 Anime + series enjoyer
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishil-parikh-3ba06b287)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krishil-Parikh)
@@ -69,5 +84,8 @@
 ---
 
 ```bash
-> System.out.println("✨ Building intelligent systems that inspire, impact & innovate ✨");
+> print("✨ Building intelligent systems that inspire, impact & innovate ✨")
+```
+
+If you want a **minimal**, **neon/cyberpunk**, **emoji-heavy**, or **super professional** version — tell me and I’ll generate that too.
 ```
