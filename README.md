@@ -86,6 +86,3 @@ AI-powered legal assistant using GPT models + vector search
 ```bash
 > print("✨ Building intelligent systems that inspire, impact & innovate ✨")
 ```
-
-If you want a **minimal**, **neon/cyberpunk**, **emoji-heavy**, or **super professional** version — tell me and I’ll generate that too.
-```
