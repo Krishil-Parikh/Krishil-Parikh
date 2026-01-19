@@ -57,16 +57,6 @@ AI-powered legal assistant using GPT models + vector search
 
 ---
 
-## 📈 GitHub Activity Snapshot
-
-*(Just aesthetics — not “live KPIs,” lol)*
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Krishil-Parikh\&show_icons=true\&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=Krishil-Parikh\&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishil-Parikh\&layout=compact\&theme=radical)
-
----
-
 ## 🎮 Beyond Code
 
 * 🏏 Cricket lover
